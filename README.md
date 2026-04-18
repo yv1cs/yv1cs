@@ -1,10 +1,6 @@
 <h2 align="left">Hi 👋! My name is yv1cs and I'm a junior developer</h2>
 
-###
-
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/821125797381013574/1265424194280226858/download_2.jpg?ex=66a1759e&is=66a0241e&hm=9866fa9011ad261f574070cac429f5efc56bd605c69d7cde569556499c2df48c&"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -17,8 +13,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
-
-###
 
 <div align="left">
   <p>Developer Crewmate</p>
