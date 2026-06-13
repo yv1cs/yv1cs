@@ -1,26 +1,25 @@
-<h2 align="left">Hi 👋! My name is yv1cs and I'm a junior developer</h2>
+<div align="center">
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/821125797381013574/1265424194280226858/download_2.jpg?ex=66a1759e&is=66a0241e&hm=9866fa9011ad261f574070cac429f5efc56bd605c69d7cde569556499c2df48c&"  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Always+building%2C+always+learning." alt="Typing SVG" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+# yv1cs
 
-<div align="left">
-  <p>Co-Founder on Imperio Roleplay</p>
-  <a href="https://ds.imperiorp.it/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <p>Founder on YV1CS STUDIOS</p>
-  <a href="https://discord.gg/gSNbvaJztE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+**Founder @ [YV1CS Studios](https://yv1cs-studios.it) • Co-Founder @ Imperio Roleplay**
+
+---
+
+### 🛠️ Tech Stack
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+&nbsp;&nbsp;
+<img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" height="40" alt="React" />
+
+---
+
+### 🔗 Links
+
+[![YV1CS Studios](https://img.shields.io/badge/YV1CS%20Studios-yv1cs--studios.it-A855F7?style=for-the-badge&logo=globe&logoColor=white)](https://yv1cs-studios.it)
+
 </div>
