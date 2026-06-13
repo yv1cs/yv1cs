@@ -1,8 +1,5 @@
-
-  # yv1cs
-  **Founder @ [YV1CS Studios](https://yv1cs-studios.it) • Co-Founder @ [Imperio Roleplay](https://ds.imperiorp.it/)**
-
-  ---
+<div align="center">
+  <img src="banner.svg" width="100%"/>
 
   ### 🛠️ Tech Stack
 
