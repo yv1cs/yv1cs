@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://img.freepik.com/foto-gratuito/concept-di-sfondo-dello-studio-astratto-gradiente-di-luce-vuoto-sfondo-viola-della-stanza-dello-studio-per-il-prodotto_1258-95249.jpg?semt=ais_hybrid&w=740&q=80" width="100%"/>
 
   # yv1cs
   **Founder @ [YV1CS Studios](https://yv1cs-studios.it) • Co-Founder @ [Imperio Roleplay](https://ds.imperiorp.it/)**
